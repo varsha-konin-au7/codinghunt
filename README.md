@@ -1,6 +1,6 @@
 # Coding Hunt
 
-To learn a promgramming skill there are many tutorial all over the internet.Its bit difficult for a user to make a choice.
+To learn a programming skill there are many tutorial all over the internet.Its bit difficult for a user to make a choice.
 Coding hunt is a platform that helps users in finding best tutorials.The website gives insights to users the various tutorials available for a programming skill.Users can come in and contribute as well.
 
 ## Installation
